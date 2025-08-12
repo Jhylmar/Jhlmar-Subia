@@ -1,5 +1,5 @@
 # <div align="center">Jhylmar Subia</div>
-<div align="center">**Ingeniero en Electrónica y Automatización** | Especialista en Sistemas Inteligentes</div>
+<div align="center">Ingeniero en Electrónica y Automatización | Especialista en Sistemas Inteligentes</div>
 
 <div align="center">
 📍 Quito, Ecuador | ✉️ jhylmarsubia@gmail.com | 📞 +593 994146218  
