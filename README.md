@@ -15,12 +15,6 @@ Ingeniero especializado en automatización industrial e inteligencia artificial 
 ## 🚀 **Experiencia Clave**
 
 ### **🧠 Proyectos de Inteligencia Artificial**
-**AISE Technology** | Independiente | Nov 2024 - Ene 2025  
-`Python` `OpenCV` `Sistemas Embebidos`  
-- Sistema de vigilancia inteligente con:
-  - Tracking en tiempo real
-  - Detección de movimientos bruscos
-  - Control físico mediante módulo pan/tilt
 
 **AE-Vision (CONQUITO)** | Ene 2025 - Jun 2025  
 `TensorFlow` `Firebase` `Edge AI`  
@@ -28,6 +22,13 @@ Ingeniero especializado en automatización industrial e inteligencia artificial 
   - Procesamiento de audio y visión artificial
   - Modelos Edge optimizados
   - Sistema embebido para control
+
+**AISE Technology** | Independiente | Nov 2024 - Ene 2025  
+`Python` `OpenCV` `Sistemas Embebidos`  
+- Sistema de vigilancia inteligente con:
+  - Tracking en tiempo real
+  - Detección de movimientos bruscos
+  - Control físico mediante módulo pan/tilt
 
 ### ⚙️ **Automatización Industrial**
 **Tecnipeso Cia. Ltda** | Feb 2025 - Abr 2025  
@@ -46,21 +47,21 @@ Ingeniero especializado en automatización industrial e inteligencia artificial 
 
 ## 💻 **Habilidades Técnicas**
 
-| **Categoría**       | **Tecnologías**                                      |
-|---------------------|------------------------------------------------------|
+| **Categoría**          | **Tecnologías**                                              |
+|------------------------|--------------------------------------------------------------|
 | **Control Industrial** | PLC (Schneider, Rockwell), SCADA, DCS, HMI (WinCC, Ignition) |
-| **Programación**    | Python (CV, IA), C++ (Embebidos), R Studio           |
-| **Sistemas**        | IoT Industrial, Visión Artificial, Edge Computing    |
-| **Herramientas**    | Firebase, Docker, Git, MQTT                          |
+| **Programación**       | Python (CV, IA), C++ (Embebidos), R Studio                   |
+| **Sistemas**           | IoT Industrial, Visión Artificial, Edge Computing            |
+| **Herramientas**       | Firebase, Docker, Git, MQTT                                  |
 
 ## 📚 **Educación**
 **Ingeniería en Electrónica y Automatización**  
 *Universidad de las Fuerzas Armadas ESPE* | 2024  
-`Acreditación EUR-ACE` `Tesis: Sistemas Inteligentes de Clasificación`
+`Acreditación EUR-ACE` `Tesis: Reingeniería de las unidades de generación eléctrica de la hidroeléctrica Coca Codo Sinclair`
 
 ## 🌐 **Idiomas**
 - **Español**: Nativo
-- **Inglés**: B1 (Técnico)
+- **Inglés**: B1 (Técnico) - En proceso de mejora hacia B2
 
 ## 📌 **Referencias**
 - **Eduardo Urbina** (Director de Operaciones, SEIUS S.A.)
